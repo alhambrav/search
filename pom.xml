@@ -28,7 +28,7 @@
 
     <organization>
         <name>CrafterCMS</name>
-        <url>http://craftercms.org</url>
+        <url>http://craftercms.com</url>
     </organization>
     <licenses>
         <license>
@@ -42,7 +42,7 @@
         <developer>
             <id>sumerjabri</id>
             <name>Sumer Jabri</name>
-            <email>sumer.jabri@craftercms.org</email>
+            <email>sumer.jabri@craftercms.com</email>
         </developer>
     </developers>
 
